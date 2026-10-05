@@ -1,0 +1,68 @@
+﻿  lab8.1.cpp
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(1,7): error C2065: System: необъявленный идентификатор
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(1,7): error C2187: синтаксическая ошибка: непредвиденный здесь элемент "System"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(2,7): error C2065: System: необъявленный идентификатор
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(2,7): error C2187: синтаксическая ошибка: непредвиденный здесь элемент "System"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(2,13): error C2059: синтаксическая ошибка: .
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(3,7): error C2065: System: необъявленный идентификатор
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(3,7): error C2187: синтаксическая ошибка: непредвиденный здесь элемент "System"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(3,13): error C2059: синтаксическая ошибка: .
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(4,7): error C2065: System: необъявленный идентификатор
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(4,7): error C2187: синтаксическая ошибка: непредвиденный здесь элемент "System"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(4,13): error C2059: синтаксическая ошибка: .
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(11,6): error C2337: Serializable: атрибут не найден
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(12,18): error C3381: ClassJournalApp::StudentProgress: описатели доступа к сборке доступны только в коде, скомпилированном с параметром /clr
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(14,16): error C2062: тип "int" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(14,22): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(15,16): error C2146: синтаксическая ошибка: отсутствие ":" перед идентификатором "string"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(15,31): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(15,45): error C2059: синтаксическая ошибка: =
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(15,59): error C2238: непредвиденные лексемы перед ";"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(16,16): error C2146: синтаксическая ошибка: отсутствие ":" перед идентификатором "string"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(16,30): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(16,44): error C2059: синтаксическая ошибка: =
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(16,58): error C2238: непредвиденные лексемы перед ";"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(17,16): error C2062: тип "int" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(17,25): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(18,16): error C2062: тип "bool" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(18,30): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(20,20): error C2146: синтаксическая ошибка: отсутствие ":" перед идентификатором "StudentProgress"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(20,38): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(22,16): error C2146: синтаксическая ошибка: отсутствие ":" перед идентификатором "StudentProgress"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(23,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(31,16): error C2146: синтаксическая ошибка: отсутствие ":" перед идентификатором "override"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(32,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(41,5): error C2059: синтаксическая ошибка: public
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(41,12): error C2236: непредвиденный токен "class". Возможно, отсутствует ";".
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(42,5): error C2059: синтаксическая ошибка: {
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(42,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(42,5): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(204,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "<class-head>"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(204,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(206,17): error C2059: синтаксическая ошибка: const
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(206,59): error C2238: непредвиденные лексемы перед ";"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(208,17): error C2062: тип "void" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(209,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(277,17): error C2062: тип "void" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(278,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(294,17): error C2062: тип "void" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(295,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(313,17): error C2062: тип "void" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(314,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(328,17): error C2062: тип "void" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(329,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(345,17): error C2062: тип "void" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(346,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(365,17): error C2062: тип "void" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(366,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(371,17): error C2062: тип "void" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(372,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(378,17): error C2062: тип "int" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(379,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(391,17): error C2062: тип "bool" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(392,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(410,17): error C2062: тип "void" не требуется
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(411,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(426,1): error C2059: синтаксическая ошибка: }
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(426,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\diabl\source\repos\lab8.1\lab8.1\lab8.1.cpp(426,3): error C2059: синтаксическая ошибка: строка
