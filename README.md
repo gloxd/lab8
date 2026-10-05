@@ -45,14 +45,18 @@
    - Использование блоков `try-catch` при операциях ввода-вывода файлов.
 
 ### Тестирование
+<img width="1471" height="749" alt="image" src="https://github.com/user-attachments/assets/e33b4416-277e-4594-899d-a0a7aacd3400" />
+<img width="1303" height="615" alt="image" src="https://github.com/user-attachments/assets/b769156b-cb91-47c0-85aa-52281d4ec165" />
+<img width="1473" height="629" alt="image" src="https://github.com/user-attachments/assets/bbcef244-7fae-415b-8e00-aa6db8f7b864" />
+<img width="1484" height="701" alt="image" src="https://github.com/user-attachments/assets/c0c998a5-381e-4da3-a923-dfda160f8ca9" />
+<img width="1459" height="643" alt="image" src="https://github.com/user-attachments/assets/3104e4c2-132d-4ac6-a30e-c31bc217d98b" />
+<img width="1461" height="716" alt="image" src="https://github.com/user-attachments/assets/642b4ead-8f00-4dc3-a59a-5ef0a8ce5712" />
 
-<img width="1479" height="745" alt="image" src="https://github.com/user-attachments/assets/0188112e-4795-41cc-b755-d8307882055e" />
-<img width="1470" height="732" alt="image" src="https://github.com/user-attachments/assets/c7e2852e-fbe4-47ca-a0e6-972f58993293" />
-<img width="1457" height="742" alt="image" src="https://github.com/user-attachments/assets/3a4a4e55-e140-44f5-9b29-2ff04b2b631a" />
-<img width="1456" height="721" alt="image" src="https://github.com/user-attachments/assets/899d20d8-fd1b-4000-857b-a03883d9ef69" />
-<img width="1461" height="741" alt="image" src="https://github.com/user-attachments/assets/eba4d3fd-aedc-4c5a-b790-77d881021d7d" />
-<img width="1462" height="743" alt="image" src="https://github.com/user-attachments/assets/fa707842-39c4-42af-9b2b-856aacd58de0" />
-<img width="1459" height="725" alt="image" src="https://github.com/user-attachments/assets/8d7a0416-73be-4ee5-b463-7cb271fd06ab" />
+
+
+
+
+
 
 
 
